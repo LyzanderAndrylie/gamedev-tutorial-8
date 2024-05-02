@@ -1,4 +1,4 @@
-# Tutorial 7 - Game Development 2023/2024
+# Tutorial 8 - Game Development 2023/2024
 
 > Godot Version: 3.5.3
 
